@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_5.Writing_Conditionals_That_Convey_Intent</RootNamespace>
+  </PropertyGroup>
+
+</Project>
