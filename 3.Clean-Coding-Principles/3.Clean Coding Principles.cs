@@ -1,6 +1,6 @@
 ﻿namespace _3.Clean_Coding_Principles
 {
-    public class Program
+    public class CleanCodingPrinciples
     {
         static void Main(string[] args)
         {

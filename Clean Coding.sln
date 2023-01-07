@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Naming", "Naming\4.Naming.csproj", "{96BA1BD8-D40B-469E-BC6D-91548116A599}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Why-Writing-Clean-Code-Matters", "2-Why-Writing-Clean-Code-Matters\2.Why-Writing-Clean-Code-Matters.csproj", "{8CBA754D-B781-46F4-9F18-B2A84EFCFDB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Why-Writing-Clean-Code-Matters", "2-Why-Writing-Clean-Code-Matters\2.Why-Writing-Clean-Code-Matters.csproj", "{8CBA754D-B781-46F4-9F18-B2A84EFCFDB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Clean-Coding-Principles", "3.Clean-Coding-Principles\3.Clean-Coding-Principles.csproj", "{D733C667-B5CE-4C0C-BE7B-F9B13DBE545D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Clean-Coding-Principles", "3.Clean-Coding-Principles\3.Clean-Coding-Principles.csproj", "{D733C667-B5CE-4C0C-BE7B-F9B13DBE545D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Writing Conditionals That Convey Intent", "5.Writing Conditionals That Convey Intent\5.Writing Conditionals That Convey Intent.csproj", "{C1A3C3DE-5613-44E8-A735-62A1E445C9C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Writing Conditionals That Convey Intent", "5.Writing Conditionals That Convey Intent\5.Writing Conditionals That Convey Intent.csproj", "{C1A3C3DE-5613-44E8-A735-62A1E445C9C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Writing Clean Methods", "6.Writing Clean Methods\6.Writing Clean Methods.csproj", "{98906358-7DEE-4AD7-B50C-6953855CC924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Naming", "4.Naming\4.Naming.csproj", "{91950E5E-BFB0-4562-8FC1-FE5C521135D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96BA1BD8-D40B-469E-BC6D-91548116A599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96BA1BD8-D40B-469E-BC6D-91548116A599}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96BA1BD8-D40B-469E-BC6D-91548116A599}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96BA1BD8-D40B-469E-BC6D-91548116A599}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8CBA754D-B781-46F4-9F18-B2A84EFCFDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8CBA754D-B781-46F4-9F18-B2A84EFCFDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CBA754D-B781-46F4-9F18-B2A84EFCFDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +31,14 @@ Global
 		{C1A3C3DE-5613-44E8-A735-62A1E445C9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A3C3DE-5613-44E8-A735-62A1E445C9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A3C3DE-5613-44E8-A735-62A1E445C9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98906358-7DEE-4AD7-B50C-6953855CC924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98906358-7DEE-4AD7-B50C-6953855CC924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98906358-7DEE-4AD7-B50C-6953855CC924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98906358-7DEE-4AD7-B50C-6953855CC924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91950E5E-BFB0-4562-8FC1-FE5C521135D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91950E5E-BFB0-4562-8FC1-FE5C521135D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91950E5E-BFB0-4562-8FC1-FE5C521135D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91950E5E-BFB0-4562-8FC1-FE5C521135D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

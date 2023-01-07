@@ -1,6 +1,6 @@
 ﻿namespace _2_Why_Writing_Clean_Code_Matters
 {
-    public class Program
+    public class WhyWritingCleanCodeMatters
     {
         static void Main(string[] args)
         {

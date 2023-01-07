@@ -1,6 +1,6 @@
 ﻿namespace _5.Writing_Conditionals_That_Convey_Intent
 {
-    public class Program
+    public class WritingConditionalsThatConveyIntent
     {
         static void Main(string[] args)
         {
