@@ -183,7 +183,7 @@
          * Avoid abbreviations 
          * Booleans should sound true/ false
          * Strive for symmetry
-         * Verbalize when struggling 
+         * Verbalize when struggling
          */
 
         #endregion
